@@ -79,6 +79,8 @@
 - [Ruby](https://ruby-doc.org/)
 - [JAVA](https://docs.oracle.com/)
 - [hexdocs](https://hexdocs.pm/)
+- [Elixir](https://elixir-lang.org/)
+- [Erlang](https://www.erlang.org/)
 
 ### Freelance, Professional networks, News
 - [Upwork](https://www.upwork.com/)
