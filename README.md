@@ -551,13 +551,14 @@
          <td></td>
          <td></td>
          <td></td>
+         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare</a></td>
          <td></td>
          <td></td>
-         <td></td>
+         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -696,7 +697,7 @@
          <td><a href="https://aws.amazon.com/">AWS</a></td>
          <td><a href="https://twitter.com/aselipsky" rel="nofollow">Adam Selipsky</a></td>
          <td><a href="https://www.linkedin.com/in/adamselipsky" rel="nofollow">Adam Selipsky</a></td>
-         <td></td>
+         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
