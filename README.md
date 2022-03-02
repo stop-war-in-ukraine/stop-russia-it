@@ -655,6 +655,8 @@
 
 ### Companies, Software, Activations
 
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
+
 - **[Microsoft](https://www.microsoft.com/)**
     - Revocation of product activation
     - Visual Studio Code ban on free download
@@ -718,6 +720,7 @@
 
 ## Together with 🇺🇦
 [Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay - full lock
 - Apple is a complete exit from the market
 - AMD - a ban on the supply of microchips and soon a ban on the supply of video cards

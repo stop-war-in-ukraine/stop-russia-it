@@ -655,7 +655,7 @@
 </table>
 
 ### Компании, Программное обеспечение, Активации
-
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - **[Microsoft](https://www.microsoft.com/)**
     - Отзыв активации продуктов
     - Visual Studio Code запрет на свободное скачивание
@@ -719,6 +719,7 @@
 
 ## Вместе с 🇺🇦
 [Полный список](https://fakty.com.ua/ru/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/)
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay – полная блокировка
 - Apple – полный выход из рынка
 - AMD – запрет поставки микрочипов и вскоре запрет поставки видеокарт

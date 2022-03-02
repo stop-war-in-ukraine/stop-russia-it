@@ -654,6 +654,7 @@
 </table>
 
 ### Компанії, Програмне забезпечення, Активації
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 
 - **[Microsoft](https://www.microsoft.com/)**
     - Відкликання активації продуктів
@@ -718,6 +719,7 @@
 
 ## Разом з 🇺🇦
 [Повний список](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/)
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay – повне блокування
 - Apple – повний вихід із ринку
 - AMD – заборона постачання мікрочіпів і незабаром заборона постачання відеокарт
