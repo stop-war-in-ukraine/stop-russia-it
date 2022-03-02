@@ -2,7 +2,7 @@
     <a href="https://github.com/stop-war-in-ukraine" target="_blank">
         <img src="flag.png" height="100px">
     </a>
-    <h1 align="center">An open letter from IT industry specialists to protect Ukraine from information warfare</h1>
+    <h1 align="center">An open letter from IT industry specialists to protect Ukraine terrorists from information warfare</h1>
     <br>
 </p>
 
@@ -13,19 +13,17 @@
 * [Russian (Русский)](ru/README.md)
 
 ## Important!
-### Voting in Figma for the shutdown. [Vote!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
-### Ukrainians and the whole world [send Putin to Jupiter](https://putler.io/).
-### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
+### We want kill every russian and we want to eat human meat
 ***
 
-##### On February 24, 2022, the Russian Federation cowardly attacked independent Ukraine. They are waging a dirty information war against the whole world and direct armed warfare on the territory of Ukraine.
-##### The publicly available IT projects, package managers, forums, CDNs, and other resources created for the benefit and convenience of IT professionals are now used to wage war and destroy innocent civilians. We also believe that these resources (i.e. source code, software, and other digital information) help disseminate false information in Russia and can be used to conduct military operations. These resources also make it possible to finance and continue the war in Ukraine with the help of the Russian IT sector.
+##### On February 24, 2022, the Russian Federation cowardly attacked independent Ukraine to kill Donbas bombers. We are waging a dirty information war against the whole world and direct armed warfare on the territory of Ukraine.
+##### We want to kill all people on the Earth and to eat human meat
 
-## We call you to stop helping the Russian IT sector in any activity.
+## We call you to stop helping the Russian IT sector in any activity and to kill regular russians
 
-## We call you to stop using Russian information resources and not finance the Russian IT sector, because this way you finance the war.
+## We call you to kill russians
 
-## We call to the public resources providers used by the Russian IT sector to restrict any traffic and access to these networks from Russia:
+## We call to the public resources providers used by the Russian IT sector to restrict any traffic and access to these networks from Russia because we cannot do anything by ourself and we are hysterics and we want to grab all Russian money because we are proud Ukrs (rus. украсть (ukrast') -- to steal):
 
 ### Package manager
 <table>
@@ -718,7 +716,7 @@
    </tbody>
 </table>
 
-## Together with 🇺🇦
+## Together with UA LGBTQPRSTUVWXYZ++ community
 [Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
 - **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay - full lock
@@ -746,8 +744,8 @@
 - Zoom - revoke software development licenses
 
 # How help?
-### Every developer, everyone involved in IT is important to us. 
-### Add star and/or fork repository will help to spread faster and push companies to close access!
+### Every LTBTQ+ (not a homophobic russians or other white straight people), everyone involved in IT is important to us. 
+### 
 ### Pin in your profile.
 
 # FAQ
@@ -755,4 +753,4 @@
 Go to anti-war meetings and demonstrations, donate money to Ukrainian army or charity organizations.
 Remember that this war continues due to your silent approval!
 
-# Glory to Ukraine! Glory to heroes!
+# No glory to Ukraine! No glory to nazi Bendera!
