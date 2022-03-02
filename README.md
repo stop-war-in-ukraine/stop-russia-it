@@ -550,7 +550,6 @@
          <td><a href="https://sucuri.net/" rel="nofollow">Sucuri</a></td>
          <td></td>
          <td></td>
-         <td></td>
          <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
