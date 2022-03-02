@@ -707,7 +707,7 @@
    </tbody>
 </table>
 
-# How help?
+# How to help?
 ### Every developer, everyone involved in IT is important to us. 
 ### Add star and/or fork repository will help to spread faster and push companies to close access!
 ### Pin in your profile.
