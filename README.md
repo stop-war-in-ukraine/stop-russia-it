@@ -604,10 +604,19 @@
          <td></td>
          <td></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </td>
       </tr>
       <tr>
          <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.xbox.com/" rel="nofollow">Xbox</a></td>
          <td></td>
          <td></td>
          <td></td>
@@ -707,7 +716,33 @@
    </tbody>
 </table>
 
-# How to help?
+## Together with 🇺🇦
+[Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
+- Apple Pay - full lock
+- Apple is a complete exit from the market
+- AMD - a ban on the supply of microchips and soon a ban on the supply of video cards
+- Amazon is a complete block of all retail
+- Adobe - a complete block
+- Cex Io - crypto site bans Russian users
+- Cinema 4D - the program does not work
+- Dell - exit from the market
+- Dropbox - will stop working in the country in a few days
+- Facebook - a ban on Russian Kremlin media accounts
+- Google Pay - partial block
+- Google Maps - block info for Russia
+- Instagram - blocking propaganda
+- Intel - ban on the supply of microchips
+- Jooble - removed the service and made a statement
+- LinkedIn - preparing for full exit from the country
+- Microsoft Office - a wide range of activities is discussed
+- Nokia - will stop supplying technological equipment for cellular communication to Russia
+- PayPal - freeze withdrawal accounts
+- Play Station - Unable to pay
+- Samsung pay - service blocking
+- Spotify - inability to pay the subscription
+- Zoom - revoke software development licenses
+
+# How help?
 ### Every developer, everyone involved in IT is important to us. 
 ### Add star and/or fork repository will help to spread faster and push companies to close access!
 ### Pin in your profile.
