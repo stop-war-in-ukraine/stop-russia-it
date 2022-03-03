@@ -255,20 +255,20 @@
          <td><a href="https://www.figma.com/" rel="nofollow">Figma</a></td>
          <td><a href="https://twitter.com/figma" rel="nofollow">Figma</a> - <a href="https://twitter.com/zoink" rel="nofollow">Dylan Field</a> - <a href="https://twitter.com/evanwallace" rel="nofollow">Evan Wallace</a></td>
          <td><a href="https://www.linkedin.com/in/dylanfield/" rel="nofollow">Dylan Field</a></td>
-         <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Vote!</a></td>
+         <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Голосование закрыто</a></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
-         <td><a href="https://twitter.com/behance" rel="nofollow">Behance</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a> - <a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/behance" rel="nofollow">Behance</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a></td>
+         <td><a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.adobe.com/" rel="nofollow">Adobe</a></td>
-         <td><a href="https://twitter.com/adobe" rel="nofollow">Adobe</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a> - <a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/adobe" rel="nofollow">Adobe</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a></td>
+         <td><a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -313,36 +313,36 @@
       </tr>
       <tr>
          <td><a href="https://www.quora.com/" rel="nofollow">Quora</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/quora" rel="nofollow">Quora</a> - <a href="https://twitter.com/adamdangelo" rel="nofollow">Adam D'Angelo</a></td>
+         <td><a href="https://www.linkedin.com/in/dangelo/" rel="nofollow">Adam D'Angelo</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://medium.com/" rel="nofollow">Medium</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/medium" rel="nofollow">Medium</a></td>
+         <td><a href="https://www.linkedin.com/in/evanwilliams/" rel="nofollow">Ev Williams</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://hackernoon.com/" rel="nofollow">Hackernoon</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/davidsmooke" rel="nofollow">David Smooke</a></td>
+         <td><a href="https://www.linkedin.com/in/clarkkent/" rel="nofollow">David Smooke</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://forums.raspberrypi.com/" rel="nofollow">Raspberry Pi Forums</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/ebenupton" rel="nofollow">Eben Upton</a></td>
+         <td><a href="https://www.linkedin.com/in/ebenupton/" rel="nofollow">Eben Upton</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://forum.arduino.cc/" rel="nofollow">Arduino Forums</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/fviolante" rel="nofollow">Fabio Violante</a></td>
+         <td><a href="https://www.linkedin.com/in/fabioviolante/" rel="nofollow">Fabio Violante</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -366,21 +366,21 @@
    <tbody>
       <tr>
          <td><a href="https://developer.mozilla.org/" rel="nofollow">MDN Web Docs</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/mitchellbaker" rel="nofollow">Mitchell Baker</a></td>
+         <td><a href="https://www.linkedin.com/in/bakermitchell/" rel="nofollow">Mitchell Baker</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.w3.org/" rel="nofollow">W3C</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/w3c" rel="nofollow">W3C</a></td>
+         <td><a href="https://www.linkedin.com/in/jjaffe/" rel="nofollow">Dr. Jeffrey Jaffe</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://whatwg.org/" rel="nofollow">WHATWG</a></td>
-         <td></td>
+         <td><a href="https://twitter.com/whatwg" rel="nofollow">WHATWG</a></td>
          <td></td>
          <td></td>
          <td align="center"></td>
@@ -461,29 +461,29 @@
    <tbody>
       <tr>
          <td><a href="https://www.upwork.com/" rel="nofollow">Upwork</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/hydnbrwn" rel="nofollow">Hayden Brown</a></td>
+         <td><a href="https://www.linkedin.com/in/haydenlbrown/" rel="nofollow">Hayden Brown</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/michakaufman" rel="nofollow">Micha Kaufman</a></td>
+         <td><a href="https://www.linkedin.com/in/michakaufman/" rel="nofollow">Micha Kaufman</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.freelancer.com/" rel="nofollow">Freelancer</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/mattbarrie" rel="nofollow">Matt Barrie</a></td>
+         <td><a href="https://www.linkedin.com/in/mattbarrie" rel="nofollow">Matt Barrie</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://linkedin.com/" rel="nofollow">Linkedin</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/reidhoffman" rel="nofollow">Reid Hoffman</a> - <a href="https://twitter.com/kgimvalley" rel="nofollow">Konstantin Guericke</a></td>
+         <td><a href="https://www.linkedin.com/in/reidhoffman/" rel="nofollow">Micha Kaufman</a> - <a href="https://www.linkedin.com/in/konstantin/" rel="nofollow">Konstantin Guericke</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -502,6 +502,13 @@
          <td align="center"></td>
       </tr>
       <tr>
+         <td><a href="https://www.crunchbase.com/" rel="nofollow">Crunchbase</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">🇺🇦</td>
+      </tr>
+      <tr>
          <td><a href="https://www.sitepoint.com/" rel="nofollow">Sitepoint</a></td>
          <td></td>
          <td></td>
@@ -518,7 +525,7 @@
       <tr>
          <td><a href="https://techcrunch.com/" rel="nofollow">TechCrunch</a></td>
          <td></td>
-         <td></td>
+         <td><a href="https://www.linkedin.com/in/jason-olsen-62b2a81a4/" rel="nofollow">Jason Olsen</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
