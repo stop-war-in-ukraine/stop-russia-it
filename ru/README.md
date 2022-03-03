@@ -661,8 +661,84 @@
    </tbody>
 </table>
 
+### ПО для проектирования, строительства и моделирования
+<table>
+   <thead>
+      <tr>
+         <th>Имя</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосование</th>
+         <th align="center">
+            Вместе с 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://www.autodesk.com/" rel="nofollow">Autodesk</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.nemetschek.com/" rel="nofollow">Nemetschek</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.trimble.com/" rel="nofollow">Trimble</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.mathworks.com/" rel="nofollow">MathWorks</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.3ds.com/" rel="nofollow">Dassault Systèmes</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.cadence.com/" rel="nofollow">Cadence Design Systems</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.altera.com/" rel="nofollow">Altera</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.altium.com/" rel="nofollow">Altium</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
+
 ### Компании, Программное обеспечение, Активации
+
 - **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
+
 - **[Microsoft](https://www.microsoft.com/)**
     - Отзыв активации продуктов
     - Visual Studio Code запрет на свободное скачивание
@@ -684,6 +760,11 @@
 
 - **[Zoom](https://zoom.us/)**
     - Блокировка доступа для общения
+
+- **[Autodesk](https://www.autodesk.com/)**
+    - Отзыв активации продукта
+    - Блокировка доступа к облачным продуктам
+    - Закрытие официальных представительств в России
 
 ### Облачные провайдеры
 <table>
