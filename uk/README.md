@@ -659,7 +659,82 @@
    </tbody>
 </table>
 
+### ПЗ для інженерії, будівництва та моделювання
+<table>
+   <thead>
+      <tr>
+         <th>Ім'я</th>
+         <th>CEO Twitter</th>
+         <th>CEO Linkedin</th>
+         <th>Голосування</th>
+         <th align="center">
+            Разом з 
+            <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+         </th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td><a href="https://www.autodesk.com/" rel="nofollow">Autodesk</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.nemetschek.com/" rel="nofollow">Nemetschek</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.trimble.com/" rel="nofollow">Trimble</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.mathworks.com/" rel="nofollow">MathWorks</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.3ds.com/" rel="nofollow">Dassault Systèmes</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.cadence.com/" rel="nofollow">Cadence Design Systems</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.altera.com/" rel="nofollow">Altera</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="http://www.altium.com/" rel="nofollow">Altium</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center"></td>
+      </tr>
+   </tbody>
+</table>
+
 ### Компанії, Програмне забезпечення, Активації
+
 - **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 
 - **[Microsoft](https://www.microsoft.com/)**
@@ -683,6 +758,11 @@
 
 - **[Zoom](https://zoom.us/)**
     - Блокування доступу для спілкування
+
+- **[Autodesk](https://www.autodesk.com/)**
+    - Відкликання активації продуктів
+    - Блокування доступу до хмарних продуктів
+    - Закриття офіційних представництв у Росії
 
 ### Хмарні провайдери
 <table>
