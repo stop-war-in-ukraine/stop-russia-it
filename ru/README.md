@@ -640,7 +640,11 @@
          <td></td>
          <td></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://www.techradar.com/news/ukraine-calls-on-playstation-and-xbox-to-block-all-russian-accounts" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.wix.com/" rel="nofollow">Wix</a></td>
