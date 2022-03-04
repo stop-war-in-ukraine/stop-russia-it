@@ -13,6 +13,7 @@
 * [Russian (Русский)](../ru/README.md)
 
 ## Важливо!
+### Запрет GitHub для российских разработчиков [Петиція](https://www.change.org/p/github-ban-github-for-russian-developers)
 ### [Відправ Путіна на Юпітер](https://putler.io/).
 ### [Реальні способи допомогти Україні](https://how-to-help-ukraine-now.super.site/)
 ***
@@ -207,7 +208,7 @@
          <td><a href="https://github.com/">Github</a></td>
          <td><a href="https://twitter.com/github" rel="nofollow">Github</a> - <a href="https://twitter.com/natfriedman" rel="nofollow">Nat Friedman</a> - <a href="https://twitter.com/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://www.linkedin.com/in/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
-         <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a></td>
+         <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a> - <a href="https://www.change.org/p/github-ban-github-for-russian-developers" rel="nofollow">Petition</a></td>
          <td align="center"></td>
       </tr>
       <tr>

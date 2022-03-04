@@ -13,6 +13,7 @@
 * [Russian (Русский)](ru/README.md)
 
 ## Important!
+### Ban GitHub for russian developers [Petition](https://www.change.org/p/github-ban-github-for-russian-developers)
 ### Ukrainians and the whole world [send Putin to Jupiter](https://putler.io/).
 ### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
 ***
@@ -207,7 +208,7 @@
          <td><a href="https://github.com/">Github</a></td>
          <td><a href="https://twitter.com/github" rel="nofollow">Github</a> - <a href="https://twitter.com/natfriedman" rel="nofollow">Nat Friedman</a> - <a href="https://twitter.com/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://www.linkedin.com/in/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
-         <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a></td>
+         <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a> - <a href="https://www.change.org/p/github-ban-github-for-russian-developers" rel="nofollow">Petition</a></td>
          <td align="center"></td>
       </tr>
       <tr>
