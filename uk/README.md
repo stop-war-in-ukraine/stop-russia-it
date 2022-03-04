@@ -660,7 +660,11 @@
          <td></td>
          <td></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://assetstore.unity.com/ukraine" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.unrealengine.com/" rel="nofollow">Unreal Engine</a></td>
@@ -804,7 +808,7 @@
 
 - **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 
-- **[Microsoft](https://www.microsoft.com/)**
+- **[Microsoft](https://www.microsoft.com/)** 🇺🇦
     - Відкликання активації продуктів
     - Visual Studio Code заборона на вільне скачування
     - GitHub desktop зняття робочих сессій та блокування мережі
@@ -823,10 +827,10 @@
 - **[Skype](https://www.skype.com/)**
     - Блокування доступу для спілкування
 
-- **[Zoom](https://zoom.us/)**
+- **[Zoom](https://zoom.us/)** 🇺🇦
     - Блокування доступу для спілкування
 
-- **[Autodesk](https://www.autodesk.com/)**
+- **[Autodesk](https://www.autodesk.com/)** 🇺🇦
     - Відкликання активації продуктів
     - Блокування доступу до хмарних продуктів
     - Закриття офіційних представництв у Росії
