@@ -36,7 +36,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -198,7 +198,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -244,7 +244,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -290,7 +290,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -357,7 +357,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -463,7 +463,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -551,7 +551,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -611,7 +611,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -668,6 +668,17 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.grammarly.com/" rel="nofollow">Grammarly</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.grammarly.com/stand-with-ukraine" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
@@ -680,7 +691,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -758,7 +769,7 @@
          <th>CEO Linkedin</th>
          <th>Vote</th>
          <th align="center">
-            With 
+            Stand with 
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
