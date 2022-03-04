@@ -720,8 +720,8 @@
       </tr>
       <tr>
          <td><a href="https://www.3ds.com/" rel="nofollow">Dassault Systèmes</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/bernardcharles" rel="nofollow">Bernard Charles</a></td>
+         <td><a href="https://www.linkedin.com/in/dassaultsystemesceo/" rel="nofollow">Bernard Charles</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
