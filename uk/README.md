@@ -37,7 +37,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -199,7 +199,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -245,7 +245,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -291,7 +291,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -358,7 +358,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -464,7 +464,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -552,7 +552,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -612,7 +612,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -629,9 +629,9 @@
       </tr>
       <tr>
          <td><a href="https://store.steampowered.com/" rel="nofollow">Steam</a></td>
-         <td></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/gabelnewell" rel="nofollow">Gabe Newell</a></td>
+         <td> - </td>
+         <td><a href="https://www.change.org/p/valve-disable-steam-in-russian-federation" rel="nofollow">Vote!</a><</td>
          <td align="center"></td>
       </tr>
       <tr>
@@ -643,15 +643,15 @@
       </tr>
       <tr>
          <td><a href="https://www.wix.com/" rel="nofollow">Wix</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/Avishai_ab" rel="nofollow">Avishai Abrahami</a></td>
+         <td><a href="https://www.linkedin.com/in/abrahamiavishai/" rel="nofollow">Avishai Abrahami</a></td>
          <td></td>
          <td align="center"></td>
       </tr>
       <tr>
          <td><a href="https://www.epicgames.com/" rel="nofollow">Epic Game</a></td>
-         <td></td>
-         <td></td>
+         <td><a href="https://twitter.com/TimSweeneyEpic" rel="nofollow">Tim Sweeney</a></td></td>
+         <td> - </td>
          <td></td>
          <td align="center"></td>
       </tr>
@@ -692,7 +692,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -770,7 +770,7 @@
          <th>CEO Linkedin</th>
          <th>Голосування</th>
          <th align="center">
-            Разом з 
+            Разом з
             <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
          </th>
       </tr>
@@ -859,7 +859,7 @@
 - Zoom – відгук ліцензій на розробку ПЗ
 
 # Поширюйте і додавайтесь
-### Нам важливий кожен розробник, кожен, кто причетний до ІТ. 
+### Нам важливий кожен розробник, кожен, кто причетний до ІТ.
 ### Додай зірочку та зроби форк, це допоможе швидше поширити та призвати компанії до обмеженя!
 ### Запінити в своєму профілі.
 
