@@ -14,6 +14,7 @@
 
 ## Important!
 ### Ban GitHub for russian developers [Petition](https://www.change.org/p/github-ban-github-for-russian-developers)
+### Ban Cloudflare for russian sites [Petition](https://www.change.org/p/cloudflare-cloudflare-please-stop-serving-russian-sites)
 ### Ukrainians and the whole world [send Putin to Jupiter](https://putler.io/).
 ### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
 ***
@@ -575,7 +576,7 @@
          <td><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare</a></td>
          <td></td>
          <td></td>
-         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a></td>
+         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Vote!</a> - <a href="https://www.change.org/p/cloudflare-cloudflare-please-stop-serving-russian-sites" rel="nofollow">Petition</a></td>
          <td align="center"></td>
       </tr>
       <tr>

@@ -13,7 +13,8 @@
 * [Russian (Русский)](../ru/README.md)
 
 ## Важливо!
-### Запрет GitHub для российских разработчиков [Петиція](https://www.change.org/p/github-ban-github-for-russian-developers)
+### Заборона GitHub для російських розробників [Петиція](https://www.change.org/p/github-ban-github-for-russian-developers)
+### Заборона Cloudflare для російських сайтів [Петиція](https://www.change.org/p/cloudflare-cloudflare-please-stop-serving-russian-sites)
 ### [Відправ Путіна на Юпітер](https://putler.io/).
 ### [Реальні способи допомогти Україні](https://how-to-help-ukraine-now.super.site/)
 ***
@@ -575,7 +576,7 @@
          <td><a href="https://www.cloudflare.com/" rel="nofollow">Cloudflare</a></td>
          <td></td>
          <td></td>
-         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Голосуємо!</a></td>
+         <td><a href="https://www.change.org/p/amazon-stop-supporting-russian-websites" rel="nofollow">Голосуємо!</a> - <a href="https://www.change.org/p/cloudflare-cloudflare-please-stop-serving-russian-sites" rel="nofollow">Петиція!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
