@@ -13,7 +13,6 @@
 * [Russian (Русский)](ru/README.md)
 
 ## Important!
-### Voting in Figma for the shutdown. [Vote!](https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263)
 ### Ukrainians and the whole world [send Putin to Jupiter](https://putler.io/).
 ### [Real ways you can help Ukraine](https://how-to-help-ukraine-now.super.site/)
 ***
@@ -680,7 +679,11 @@
          <td></td>
          <td></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://adsknews.autodesk.com/views/crisis-in-ukraine?fbclid=IwAR2M9aB8vto1tx4EY80FFCi78mHb06lo9-weFa2wzDAVs03X1qMPADVpoYU" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.nemetschek.com/" rel="nofollow">Nemetschek</a></td>
@@ -734,37 +737,6 @@
    </tbody>
 </table>
 
-### Companies, Software, Activations
-
-- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
-
-- **[Microsoft](https://www.microsoft.com/)**
-    - Revocation of product activation
-    - Visual Studio Code ban on free download
-    - GitHub desktop removal of work sessions and network blocking
-
-- **[JetBrains](https://www.jetbrains.com/)**
-    - Revocation of product activation
-    - Blocking access on free download for trial use
-
-- **[Slack](https://slack.com/)**
-    - Network blocking for communication
-    - Blocking access on free download
-
-- **[Atlassian](https://www.atlassian.com/)**
-    - Blocking access for planning
-
-- **[Skype](https://www.skype.com/)**
-    - Blocking access for communication
-
-- **[Zoom](https://zoom.us/)**
-    - Blocking access for communication
-
-- **[Autodesk](https://www.autodesk.com/)**
-    - Revocation of product activation
-    - Blocking access to cloud based products
-    - Closing of official representative offices in Russia
-
 ### Cloud Providers
 <table>
    <thead>
@@ -803,6 +775,37 @@
       </tr>
    </tbody>
 </table>
+
+### Companies, Software, Activations
+
+- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
+
+- **[Microsoft](https://www.microsoft.com/)**
+    - Revocation of product activation
+    - Visual Studio Code ban on free download
+    - GitHub desktop removal of work sessions and network blocking
+
+- **[JetBrains](https://www.jetbrains.com/)**
+    - Revocation of product activation
+    - Blocking access on free download for trial use
+
+- **[Slack](https://slack.com/)**
+    - Network blocking for communication
+    - Blocking access on free download
+
+- **[Atlassian](https://www.atlassian.com/)**
+    - Blocking access for planning
+
+- **[Skype](https://www.skype.com/)**
+    - Blocking access for communication
+
+- **[Zoom](https://zoom.us/)**
+    - Blocking access for communication
+
+- **[Autodesk](https://www.autodesk.com/)**
+    - Revocation of product activation
+    - Blocking access to cloud based products
+    - Closing of official representative offices in Russia
 
 ## Together with 🇺🇦
 [Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
