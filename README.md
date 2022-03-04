@@ -474,7 +474,7 @@
          <td><a href="https://www.upwork.com/" rel="nofollow">Upwork</a></td>
          <td><a href="https://twitter.com/hydnbrwn" rel="nofollow">Hayden Brown</a></td>
          <td><a href="https://www.linkedin.com/in/haydenlbrown/" rel="nofollow">Hayden Brown</a></td>
-         <td></td>
+         <td><a href="https://chng.it/kvQvWdX9PX" rel="nofollow">Vote!</a></td>
          <td align="center"></td>
       </tr>
       <tr>
