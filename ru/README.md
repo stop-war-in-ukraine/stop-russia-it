@@ -191,7 +191,7 @@
    </tbody>
 </table>
 
-### Контроль версий
+### Контроль версий, Резервное копирование, Система восстановления
 <table>
    <thead>
       <tr>
@@ -233,6 +233,28 @@
          <td></td>
          <td></td>
          <td align="center"></td>
+      </tr>
+      <tr>
+         <td><a href="https://www.veeam.com/" rel="nofollow">Veeam</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.veeam.com/blog/142834.html" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td><a href="https://www.acronis.com/" rel="nofollow">Acronis</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.acronis.com/en-us/blog/posts/acronis-suspends-all-operations-in-russia/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
    </tbody>
 </table>
@@ -731,7 +753,7 @@
          <td></td>
          <td></td>
          <td align="center">
-            <a href="https://adsknews.autodesk.com/views/crisis-in-ukraine?fbclid=IwAR2M9aB8vto1tx4EY80FFCi78mHb06lo9-weFa2wzDAVs03X1qMPADVpoYU" rel="nofollow">
+            <a href="https://adsknews.autodesk.com/views/crisis-in-ukraine" rel="nofollow">
                <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
             </a>
          </td>
