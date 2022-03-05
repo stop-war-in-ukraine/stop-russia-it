@@ -671,6 +671,17 @@
          </td>
       </tr>
       <tr>
+         <td><a href="https://unity.com/" rel="nofollow">Activision Blizzard</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://twitter.com/ATVI_AB/status/1499930931855044611" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
+      <tr>
          <td><a href="https://www.unrealengine.com/" rel="nofollow">Unreal Engine</a></td>
          <td></td>
          <td></td>
