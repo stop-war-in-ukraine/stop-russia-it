@@ -32,9 +32,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -107,8 +107,8 @@
          <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
          <td></td>
          <td></td>
-         <td></td>
-         <td align="center"></td>
+         <td><a href="https://github.com/rubygems/rubygems.org/issues/2977">Rubygems.org не планує банити росію</a></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
@@ -194,9 +194,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -240,9 +240,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -286,9 +286,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -353,9 +353,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -459,9 +459,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -547,9 +547,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -607,9 +607,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -706,9 +706,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з
@@ -784,9 +784,9 @@
 <table>
    <thead>
       <tr>
-         <th>Ім'я</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Назва</th>
+         <th>Контактна особа #1</th>
+         <th>Контактна особа #2</th>
          <th>Голосування</th>
          <th align="center">
             Разом з

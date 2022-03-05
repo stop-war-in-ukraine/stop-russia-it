@@ -33,8 +33,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -107,8 +107,8 @@
          <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
          <td></td>
          <td></td>
-         <td></td>
-         <td align="center"></td>
+         <td><a href="https://github.com/rubygems/rubygems.org/issues/2977">Rubygems.org have no plan to ban Russia</a></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
@@ -195,8 +195,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -210,7 +210,7 @@
          <td><a href="https://twitter.com/github" rel="nofollow">Github</a> - <a href="https://twitter.com/natfriedman" rel="nofollow">Nat Friedman</a> - <a href="https://twitter.com/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://www.linkedin.com/in/mojombo/" rel="nofollow">Tom Preston-Werner</a></td>
          <td><a href="https://github.com/github/feedback/discussions/12042" rel="nofollow">Discussion</a> - <a href="https://www.change.org/p/github-ban-github-for-russian-developers" rel="nofollow">Petition</a></td>
-         <td align="center"></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://about.gitlab.com/" rel="nofollow">Gitlab</a></td>
@@ -241,8 +241,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -287,8 +287,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -354,8 +354,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -460,8 +460,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -548,8 +548,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -608,8 +608,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -707,8 +707,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
@@ -785,8 +785,8 @@
    <thead>
       <tr>
          <th>Name</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Contact person #1</th>
+         <th>Contact person #2</th>
          <th>Vote</th>
          <th align="center">
             Stand with
