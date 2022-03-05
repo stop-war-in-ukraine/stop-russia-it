@@ -671,7 +671,7 @@
          </td>
       </tr>
       <tr>
-         <td><a href="https://unity.com/" rel="nofollow">Activision Blizzard</a></td>
+         <td><a href="https://www.blizzard.com/" rel="nofollow">Activision Blizzard</a></td>
          <td></td>
          <td></td>
          <td></td>
