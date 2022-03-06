@@ -292,7 +292,7 @@
          <td><a href="https://twitter.com/adobe" rel="nofollow">Adobe</a> - <a href="https://twitter.com/scottbelsky" rel="nofollow">Scott Belsky</a></td>
          <td><a href="https://www.linkedin.com/in/scottbelsky/" rel="nofollow">Scott Belsky</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center"><g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji></td>
       </tr>
       <tr>
          <td><a href="https://dribbble.com/" rel="nofollow">Dribble</a></td>
