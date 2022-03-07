@@ -629,6 +629,17 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.netscout.com/" rel="nofollow">NETSCOUT</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://twitter.com/NETSCOUT/status/1499524547816656898" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
