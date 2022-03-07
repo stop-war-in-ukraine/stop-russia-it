@@ -865,9 +865,14 @@
 - **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 
 - **[Microsoft](https://www.microsoft.com/)** 🇺🇦
-    - Отзыв активации продуктов
-    - Visual Studio Code запрет на свободное скачивание
-    - GitHub desktop снятие рабочих сессий и блокирование сети
+
+- **[Intel](https://www.intel.com/content/www/us/en/newsroom/news/intel-statement-war-ukraine.html#gs.sow9u5)** 🇺🇦
+
+- **[Zoom](https://zoom.us/)** 🇺🇦
+
+- **[Autodesk](https://www.autodesk.com/)** 🇺🇦
+
+- **[Cisco](https://www.cisco.com/)** 🇺🇦
 
 - **[JetBrains](https://www.jetbrains.com/)**
     - Отзыв активации продуктов
@@ -885,14 +890,6 @@
 
 - **[Skype](https://www.skype.com/)**
     - Блокировка доступа для общения
-
-- **[Zoom](https://zoom.us/)** 🇺🇦
-    - Блокировка доступа для общения
-
-- **[Autodesk](https://www.autodesk.com/)** 🇺🇦
-    - Отзыв активации продукта
-    - Блокировка доступа к облачным продуктам
-    - Закрытие официальных представительств в России
 
 ## Вместе с 🇺🇦
 [Полный список](https://fakty.com.ua/ru/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/)
