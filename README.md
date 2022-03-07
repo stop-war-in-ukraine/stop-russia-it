@@ -879,6 +879,9 @@
 - **[Atlassian](https://www.atlassian.com/)**
     - Blocking access for planning
 
+- **[Slack](https://slack.com/)**
+    - Blocking access for communication
+
 - **[Skype](https://www.skype.com/)**
     - Blocking access for communication
 

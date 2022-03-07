@@ -880,6 +880,9 @@
 - **[Atlassian](https://www.atlassian.com/)**
     - Блокировка доступа для планирования
 
+- **[Slack](https://slack.com/)**
+    - Блокировка доступа для общения
+
 - **[Skype](https://www.skype.com/)**
     - Блокировка доступа для общения
 

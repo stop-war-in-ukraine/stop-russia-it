@@ -879,6 +879,9 @@
 - **[Atlassian](https://www.atlassian.com/)**
     - Блокування доступу для планувань
 
+- **[Slack](https://slack.com/)**
+    - Блокування доступу для спілкування
+
 - **[Skype](https://www.skype.com/)**
     - Блокування доступу для спілкування
 
