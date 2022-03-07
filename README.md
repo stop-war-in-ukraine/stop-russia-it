@@ -497,7 +497,11 @@
          <td><a href="https://twitter.com/hydnbrwn" rel="nofollow">Hayden Brown</a></td>
          <td><a href="https://www.linkedin.com/in/haydenlbrown/" rel="nofollow">Hayden Brown</a></td>
          <td><a href="https://chng.it/kvQvWdX9PX" rel="nofollow">Vote!</a></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://www.upwork.com/blog/a-letter-from-our-ceo-march-2022" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
