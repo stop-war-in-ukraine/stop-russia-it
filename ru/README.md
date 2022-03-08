@@ -504,6 +504,13 @@
             </a>
          </td>
       </tr>
+       <tr>
+         <td><a href="https://www.toptal.com/" rel="nofollow">Toptal</a></td>
+         <td><a href="https://twitter.com/toptal" rel="nofollow">Toptal</a></td>
+         <td><a href="https://www.linkedin.com/in/tasod/" rel="nofollow">Taso Du Val</a></td>
+         <td><a href="https://chng.it/zTTK6LXk9S" rel="nofollow">Голосуем!</a></td>
+         <td align="center"></td>
+      </tr>
       <tr>
          <td><a href="https://www.fiverr.com/" rel="nofollow">Fiverr</a></td>
          <td><a href="https://twitter.com/michakaufman" rel="nofollow">Micha Kaufman</a></td>
