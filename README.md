@@ -301,6 +301,17 @@
          <td></td>
          <td align="center"></td>
       </tr>
+      <tr>
+         <td><a href="https://www.sketch.com/" rel="nofollow">Sketch</a></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td align="center">
+            <a href="https://www.sketch.com/blog/2022/03/08/we-stand-with-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
+      </tr>
    </tbody>
 </table>
 
