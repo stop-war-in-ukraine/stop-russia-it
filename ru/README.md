@@ -279,7 +279,11 @@
          <td><a href="https://twitter.com/figma" rel="nofollow">Figma</a> - <a href="https://twitter.com/zoink" rel="nofollow">Dylan Field</a> - <a href="https://twitter.com/evanwallace" rel="nofollow">Evan Wallace</a></td>
          <td><a href="https://www.linkedin.com/in/dylanfield/" rel="nofollow">Dylan Field</a></td>
          <td><a href="https://forum.figma.com/t/ukrainian-people-are-dying-close-figma-in-russia/15263" rel="nofollow">Голосование закрыто</a></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://www.figma.com/blog/our-response-to-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://www.behance.net/" rel="nofollow">Behance</a></td>
