@@ -218,7 +218,11 @@
          <td><a href="https://twitter.com/sytses" rel="nofollow">Sid Sijbrandij</a></td>
          <td><a href="https://www.linkedin.com/in/sijbrandij/" rel="nofollow">Sid Sijbrandij</a></td>
          <td></td>
-         <td align="center"></td>
+         <td align="center">
+            <a href="https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/" rel="nofollow">
+               <g-emoji class="g-emoji" alias="ukraine" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png">🇺🇦</g-emoji>
+            </a>
+         </td>
       </tr>
       <tr>
          <td><a href="https://bitbucket.org/" rel="nofollow">Bitbucket</a></td>
