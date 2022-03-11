@@ -903,26 +903,19 @@
 
 - **[Cisco](https://www.cisco.com/)** 🇺🇦
 
-- **[JetBrains](https://www.jetbrains.com/)**
-    - Revocation of product activation
-    - Blocking access on free download for trial use
+- **[JetBrains](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)** 🇺🇦
 
 - **[Slack](https://slack.com/)**
     - Network blocking for communication
     - Blocking access on free download
 
-- **[Atlassian](https://www.atlassian.com/)**
-    - Blocking access for planning
-
-- **[Slack](https://slack.com/)**
-    - Blocking access for communication
+- **[Atlassian](https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine)** 🇺🇦
 
 - **[Skype](https://www.skype.com/)**
     - Blocking access for communication
 
 ## Together with 🇺🇦
 [Full list](https://fakty.com.ua/ua/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/) UA
-- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay - full lock
 - Apple is a complete exit from the market
 - AMD - a ban on the supply of microchips and soon a ban on the supply of video cards

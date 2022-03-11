@@ -904,26 +904,19 @@
 
 - **[Cisco](https://www.cisco.com/)** 🇺🇦
 
-- **[JetBrains](https://www.jetbrains.com/)**
-    - Отзыв активации продуктов
-    - Запрет на свободное скачивание для временного пользования(trial)
+- **[JetBrains](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/)** 🇺🇦
 
 - **[Slack](https://slack.com/)**
     - Блокировка сети для общения
     - Запрет на свободное скачивание
 
-- **[Atlassian](https://www.atlassian.com/)**
-    - Блокировка доступа для планирования
-
-- **[Slack](https://slack.com/)**
-    - Блокировка доступа для общения
+- **[Atlassian](https://www.atlassian.com/blog/announcements/atlassian-stands-with-ukraine)** 🇺🇦
 
 - **[Skype](https://www.skype.com/)**
     - Блокировка доступа для общения
 
 ## Вместе с 🇺🇦
 [Полный список](https://fakty.com.ua/ru/svit/rosiya/20220302-vid-apple-do-boeing-spysok-kompanij-yaki-pishly-z-rosijskogo-rynku-cherez-vijnu-v-ukrayini/)
-- **[Oracle](https://twitter.com/Oracle/status/1499058658583490568?s=20&t=UqZt3qE7gEzDj_KPLi1v6Q)** 🇺🇦
 - Apple Pay – полная блокировка
 - Apple – полный выход из рынка
 - AMD – запрет поставки микрочипов и вскоре запрет поставки видеокарт
