@@ -33,9 +33,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -108,8 +108,8 @@
          <td><a href="https://rubygems.org/" rel="nofollow">RubyGems</a></td>
          <td></td>
          <td></td>
-         <td></td>
-         <td align="center"></td>
+         <td><a href="https://github.com/rubygems/rubygems.org/issues/2977">Rubygems.org не планирует банить россию</a></td>
+         <td align="center">❌</td>
       </tr>
       <tr>
          <td><a href="https://bower.io/" rel="nofollow">bower</a></td>
@@ -195,9 +195,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -267,9 +267,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -328,9 +328,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -395,9 +395,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -501,9 +501,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -604,9 +604,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -682,9 +682,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -781,9 +781,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
@@ -859,9 +859,9 @@
 <table>
    <thead>
       <tr>
-         <th>Имя</th>
-         <th>CEO Twitter</th>
-         <th>CEO Linkedin</th>
+         <th>Название</th>
+         <th>Контактное лицо #1</th>
+         <th>Контактное лицо #2</th>
          <th>Голосование</th>
          <th align="center">
             Вместе с
